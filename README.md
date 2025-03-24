@@ -1,5 +1,5 @@
 ### Hi there, I'm Asmaa! 👋  
-💻 Passionate about Web & Software Development | AI Enthusiast  
+💻 Passionate about Hardware & Software Development | AI Enthusiast  
 🚀 Always exploring new technologies and building exciting projects  
 
 ---
