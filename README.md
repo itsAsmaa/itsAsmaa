@@ -1,3 +1,6 @@
+<div align="center" style="background: url('https://i.imgur.com/waxVImv.png'); background-size: cover; padding: 50px; border-radius: 20px;">
+
+
 <div align="center">
 
 # 👋 Hey there, I'm Asmaa! 
