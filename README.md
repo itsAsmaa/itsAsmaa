@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://github.com/itsAsmaa/itsAsmaa/blob/main/photo-1464802686167-b939a6910659.jpeg" width="100%" alt="Galaxy Divider"/>
-</p>
 
 
 <div align="center">
