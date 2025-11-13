@@ -71,6 +71,7 @@ const asmaa = {
 
 <div align="center">
 
+---
 ### 📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsAsmaa&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=C9D1D9" alt="Contribution Graph" />
