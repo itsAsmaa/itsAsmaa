@@ -139,10 +139,6 @@ const asmaa = {
 
 <div align="center">
 
----
 
-*"Innovation distinguishes between a leader and a follower."* - Steve Jobs
-
-**⭐ From [itsAsmaa](https://github.com/itsAsmaa)**
 
 </div>
