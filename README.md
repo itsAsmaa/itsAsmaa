@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://i.imgur.com/4NJl2pK.jpeg" width="100%" height="250" style="object-fit: cover;" alt="Galaxy Banner"/>
+</p>
 
 
 <div align="center">
