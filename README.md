@@ -1,4 +1,3 @@
-<div align="center" style="background: url('https://i.imgur.com/4NJl2pK.jpeg'); background-size: cover; padding: 50px; border-radius: 20px;">
 
 
 <div align="center">
@@ -118,4 +117,4 @@ const asmaa = {
 
 
 </div>
-</div>
+
