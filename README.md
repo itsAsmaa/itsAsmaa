@@ -13,7 +13,7 @@
 <div align="center">
 
 ### 🌟 About Me
-<div align="center">
+
 ```typescript
 const asmaa = {
     location: "Ramallah, West Bank 🇵🇸",
@@ -23,7 +23,6 @@ const asmaa = {
     motto: "Innovation through integration"
 };
 ```
-</div>
 </div>
 
 ---
