@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/4NJl2pK.jpeg" width="100%" height="250" style="object-fit: cover;" alt="Galaxy Banner"/>
+  <img src="https://i.imgur.com/7G1Uq9x.png" width="80%" alt="Galaxy Divider"/>
 </p>
 
 
