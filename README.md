@@ -57,7 +57,7 @@ const asmaa = {
 ## 📊 GitHub Analytics
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itsAsmaa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsAsmaa&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsAsmaa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=50&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9"/>
 
 </div>
 
