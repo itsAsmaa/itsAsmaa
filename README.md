@@ -1,8 +1,4 @@
-<div align="center">
-<!-- Galaxy Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:243694,50:264778,100:427786&height=250&section=header&text=Asmaa%20Fares&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Hardware%20%26%20Software%20Developer%20|%20AI%20Enthusiast&descAlignY=51&descAlign=50" width="100%"/>
-</div>
-<div align="center">
+
 
 <div align="center">
 
