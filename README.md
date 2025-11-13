@@ -67,13 +67,7 @@ const asmaa = {
 
 </div>
 
-<div align="center">
 
-### 🔥 Contribution Streak
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=itsAsmaa&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7&sideNums=C9D1D9&currStreakNum=C9D1D9&sideLabels=C9D1D9&dates=6B7280" alt="GitHub Streak" />
-
-</div>
 
 <div align="center">
 
