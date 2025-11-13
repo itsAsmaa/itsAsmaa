@@ -54,15 +54,6 @@ const asmaa = {
 
 <div align="center">
 
-## 📊 GitHub Analytics
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=itsAsmaa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsAsmaa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=50&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9"/>
-
-</div>
-
-<div align="center">
-
 ### 🔥 Contribution Streak
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=itsAsmaa&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7&sideNums=C9D1D9&currStreakNum=C9D1D9&sideLabels=C9D1D9&dates=6B7280" alt="GitHub Streak" />
