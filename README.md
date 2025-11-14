@@ -19,8 +19,7 @@ const asmaa = {
     location: "Ramallah, West Bank 🇵🇸",
     passions: ["Hardware Development", "Software Engineering", "AI & ML"],
     currentFocus: "Building innovative solutions that bridge hardware & software",
-    funFact: "I turn coffee ☕ into code and ideas into reality ✨",
-    motto: "Innovation through integration"
+    funFact: "I turn coffee ☕ into code and ideas into reality ✨"
 };
 ```
 
