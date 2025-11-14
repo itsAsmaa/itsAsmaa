@@ -19,7 +19,6 @@ const asmaa = {
     location: "Ramallah, West Bank 🇵🇸",
     passions: ["Hardware Development", "Software Engineering", "AI & ML"],
     currentFocus: "Building innovative solutions that bridge hardware & software",
-    funFact: "I turn coffee ☕ into code and ideas into reality ✨"
 };
 ```
 
@@ -72,8 +71,6 @@ const asmaa = {
 🌱 **Learning:** Deep Learning, Edge Computing, IoT Security  
 👯 **Looking to Collaborate:** Open-source hardware projects & AI applications  
 💬 **Ask Me About:** Hardware-software integration, AI/ML, embedded systems  
-⚡ **Fun Fact:** I believe the future is in seamless hardware-software convergence
-
 </div>
 
 ---
