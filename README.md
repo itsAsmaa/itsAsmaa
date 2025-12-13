@@ -16,7 +16,7 @@
 
 ```typescript
 const asmaa = {
-    location: "Ramallah, West Bank 🇵🇸",
+    location: ["Ramallah, West Bank 🇵🇸", "Lake Worth, Florida 🇺🇸"],
     passions: ["Hardware Development", "Software Engineering", "AI & ML"],
     currentFocus: "Building innovative solutions that bridge hardware & software",
 };
