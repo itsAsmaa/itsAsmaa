@@ -88,17 +88,6 @@ const asmaa = {
 
 </div>
 
----
-
-<div align="center">
-
-### 💭 Random Dev Quote
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote"/>
-
-</div>
-
----
 
 <div align="center">
 
