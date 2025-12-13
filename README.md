@@ -61,19 +61,6 @@ const asmaa = {
 
 </div>
 
----
-
-<div align="center">
-
-## 🎯 Current Projects & Focus
-
-🔭 **Working On:** Advanced AI-powered hardware integration systems  
-🌱 **Learning:** Deep Learning, Edge Computing, IoT Security  
-👯 **Looking to Collaborate:** Open-source hardware projects & AI applications  
-💬 **Ask Me About:** Hardware-software integration, AI/ML, embedded systems  
-</div>
-
----
 
 <div align="center">
 
