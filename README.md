@@ -6,7 +6,7 @@
 
 # 👋 Hey there, I'm Asmaa! 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFD700&center=true&vCenter=true&random=false&width=600&lines=Hardware+%26+Software+Developer;AI+Enthusiast+%F0%9F%A4%96;Tech+Explorer+%F0%9F%9A%80;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=D4AF37&center=true&vCenter=true&random=false&width=600&lines=Hardware+%26+Software+Developer;AI+Enthusiast+%F0%9F%A4%96;Tech+Explorer+%F0%9F%9A%80;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 
 </div>
 
