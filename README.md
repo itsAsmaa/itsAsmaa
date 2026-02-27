@@ -37,8 +37,8 @@ const asmaa = {
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=itsAsmaa&layout=compact&card_width=320&langs_count=50&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsAsmaa&layout=compact&card_width=320&langs_count=50&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=itsAsmaa&cache_seconds=86400&layout=compact&card_width=320&langs_count=50&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsAsmaa&cache_seconds=86400&layout=compact&card_width=320&langs_count=50&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9" />
 </picture>
 
 </div>
