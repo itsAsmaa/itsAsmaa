@@ -25,12 +25,12 @@ const asmaa = {
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsAsmaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=itsAsmaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
   <img src="https://streak-stats.demolab.com/?user=itsAsmaa&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsAsmaa&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=itsAsmaa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 ---
@@ -46,7 +46,7 @@ const asmaa = {
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=itsAsmaa&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=itsAsmaa&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" width="100%" />
 </p>
 
 ---
