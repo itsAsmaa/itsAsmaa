@@ -22,8 +22,8 @@
 ```typescript
 const asmaa = {
   location  : ["Ramallah, West Bank 🇵🇸", "Lake Worth, Florida 🇺🇸"],
-  passions  : ["Hardware Development", "Software Engineering", "AI &amp; ML"],
-  focus     : "Building innovative solutions that bridge hardware &amp; software",
+  passions  : ["Hardware Development", "Software Engineering", "AI ; ML"],
+  focus     : "Building innovative solutions that bridge hardware ; software",
   available : true,
 };
 ```
