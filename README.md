@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Hey%20there!%20I'm%20Asmaa%20&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=shark&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Hey%20there!%20I'm%20Asmaa%20&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;" width="100%"/>
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamt4OGJ3Z3d3a2p3bW1ocmFhaTVyNTZicmZrdWk4c2M2Zmpmb3QxNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPnAiaMCws8nOsE/giphy.gif" height="400"/>
@@ -88,4 +88,4 @@ const asmaa = {
   </a>
 </div>
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=100&amp;section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=shark&amp;color=gradient&amp;customColorList=6,11,20&amp;height=100&amp;section=footer" width="100%"/>
