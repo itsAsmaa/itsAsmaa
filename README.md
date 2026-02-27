@@ -1,93 +1,59 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamt4OGJ3Z3d3a2p3bW1ocmFhaTVyNTZicmZrdWk4c2M2Zmpmb3QxNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPnAiaMCws8nOsE/giphy.gif" height="500"/>
-</div>
+<h1 align="center">👋 Hey there, I'm Asmaa!</h1>
 
-<div align="center">
+<p align="center">
+  <em>Building innovative solutions that bridge hardware & software</em>
+</p>
 
-# 👋 Hey there, I'm Asmaa! 
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=D4AF37&center=true&vCenter=true&random=false&width=600&lines=Hardware+%26+Software+Developer;AI+Enthusiast+%F0%9F%A4%96;Tech+Explorer+%F0%9F%9A%80;Always+Learning%2C+Always+Building" alt="Typing SVG" />
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=asmaa&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 ---
 
-<div align="center">
-
-### 🌟 About Me
+## 🌟 About Me
 
 ```typescript
 const asmaa = {
-    location: ["Ramallah, West Bank 🇵🇸", "Lake Worth, Florida 🇺🇸"],
-    passions: ["Hardware Development", "Software Engineering", "AI & ML"],
-    currentFocus: "Building innovative solutions that bridge hardware & software",
+  location: ["Ramallah, West Bank 🇵🇸", "Lake Worth, Florida 🇺🇸"],
+  passions: ["Hardware Development", "Software Engineering", "AI & ML"],
+  currentFocus: "Building innovative solutions that bridge hardware & software",
 };
 ```
 
-</div>
-
 ---
-<div align="center">
 
 ## 📊 GitHub Analytics
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=itsAsmaa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9&rank_icon=github">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itsAsmaa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9&rank_icon=github" />
-</picture>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=itsAsmaa&cache_seconds=86400&layout=compact&card_width=320&langs_count=50&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsAsmaa&cache_seconds=86400&layout=compact&card_width=320&langs_count=50&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9" />
-</picture>
-
-</div>
-
-
-
-<div align="center">
-
----
-### 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=itsAsmaa&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=C9D1D9" alt="Contribution Graph" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</p>
 
 ---
 
-<div align="center">
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</p>
+
+---
 
 ## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=itsAsmaa&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</p>
 
-</div>
-
-
-<div align="center">
+---
 
 ## 🌐 Let's Connect!
 
-<a href="https://www.linkedin.com/in/asma-a-fares-638071232/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/itsAsmaa" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-</div>
-
-
-<div align="center">
-
-### 👁️ Profile Views
-
-<img src="https://komarev.com/ghpvc/?username=itsAsmaa&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
-
-</div>
-
-<div align="center">
-
-</div>
-
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
