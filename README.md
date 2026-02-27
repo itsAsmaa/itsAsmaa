@@ -4,10 +4,6 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamt4OGJ3Z3d3a2p3bW1ocmFhaTVyNTZicmZrdWk4c2M2Zmpmb3QxNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPnAiaMCws8nOsE/giphy.gif" height="400"/>
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Building+hardware+%26+software+bridges+🔧;Passionate+about+AI+%26+ML+🤖;Based+in+Palestine+🇵🇸+%26+Florida+🇺🇸;Always+learning%2C+always+building+🚀" alt="Typing SVG" />
-</div>
-
 <br/>
 
 <div align="center">
