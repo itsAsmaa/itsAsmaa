@@ -75,5 +75,5 @@ const asmaa = {
 ## 🌐 Let's Connect!
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="/cdn-cgi/l/email-protection#e3baacb6b1bca6aea2aaaf"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColo
+  <a href="https://www.linkedin.com/in/asmaafares/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+
