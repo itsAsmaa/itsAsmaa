@@ -1,5 +1,9 @@
 <h1 align="center">👋 Hey there, I'm Asmaa!</h1>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamt4OGJ3Z3d3a2p3bW1ocmFhaTVyNTZicmZrdWk4c2M2Zmpmb3QxNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPnAiaMCws8nOsE/giphy.gif" height="500"/>
+</div>
+
 <p align="center">
   <em>Building innovative solutions that bridge hardware & software</em>
 </p>
