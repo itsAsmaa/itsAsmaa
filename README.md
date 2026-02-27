@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Hey%20there!%20I'm%20Asmaa%20&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;" width="100%"/>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamt4OGJ3Z3d3a2p3bW1ocmFhaTVyNTZicmZrdWk4c2M2Zmpmb3QxNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPnAiaMCws8nOsE/giphy.gif" height="400" width="100%"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamt4OGJ3Z3d3a2p3bW1ocmFhaTVyNTZicmZrdWk4c2M2Zmpmb3QxNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPnAiaMCws8nOsE/giphy.gif" height="100%" width="100%"/>
 </div>
 
 <br/>
