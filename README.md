@@ -31,7 +31,7 @@ const asmaa = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=itsAsmaa&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff" width="48%" />
+  <img src="https://github-readme-stats-sigma-ten.vercel.app/api/top-langs/?username=itsAsmaa&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff" width="48%" />
 </div>
 
 ---
