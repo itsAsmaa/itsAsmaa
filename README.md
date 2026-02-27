@@ -77,9 +77,9 @@ const asmaa = {
   <a href="https://www.linkedin.com/in/asmaafares/">
     <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&amp;logo=linkedin&amp;logoColor=0A66C2" />
   </a>
-  <a href="enga57682@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&amp;logo=gmail&amp;logoColor=EA4335" />
-  </a>
+  <a href="mailto:enga57682@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&amp;logo=gmail&amp;logoColor=EA4335" />
+</a>
   <a href="https://github.com/itsAsmaa">
     <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&amp;logo=github&amp;logoColor=ffffff" />
   </a>
