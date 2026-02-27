@@ -3,12 +3,10 @@
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamt4OGJ3Z3d3a2p3bW1ocmFhaTVyNTZicmZrdWk4c2M2Zmpmb3QxNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPnAiaMCws8nOsE/giphy.gif" height="400"/>
 </div>
-
 <br/>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=itsAsmaa&label=Profile+Views&color=58a6ff&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/itsAsmaa?label=Followers&style=flat-square&color=58a6ff" />
 </div>
 
 ---
