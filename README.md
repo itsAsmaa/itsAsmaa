@@ -79,21 +79,17 @@ const asmaa = {
 </div>
 
 ---
-
-## 🌐 Let's Connect!
-
+##🌐 Let's Connect!
 <div align="center">
   <a href="https://www.linkedin.com/in/asmaafares/">
     <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&amp;logo=linkedin&amp;logoColor=0A66C2" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:enga57682@gmail.com">
     <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&amp;logo=gmail&amp;logoColor=EA4335" />
   </a>
   <a href="https://github.com/itsAsmaa">
     <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&amp;logo=github&amp;logoColor=ffffff" />
   </a>
 </div>
-
 <br/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=100&amp;section=footer" width="100%"/>
