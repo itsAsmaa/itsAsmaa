@@ -1,18 +1,18 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%20there!%20I'm%20Asmaa%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Hardware%20%7C%20Software%20%7C%20AI%20%26%20ML&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Hey%20there!%20I'm%20Asmaa%20👋&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Hardware%20%7C%20Software%20%7C%20AI%20%26%20ML&amp;descAlignY=55&amp;descSize=18" width="100%"/>
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamt4OGJ3Z3d3a2p3bW1ocmFhaTVyNTZicmZrdWk4c2M2Zmpmb3QxNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPnAiaMCws8nOsE/giphy.gif" height="400"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+hardware+%26+software+bridges+🔧;Passionate+about+AI+%26+ML+🤖;Based+in+Palestine+🇵🇸+%26+Florida+🇺🇸;Always+learning%2C+always+building+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Building+hardware+%26+software+bridges+🔧;Passionate+about+AI+%26+ML+🤖;Based+in+Palestine+🇵🇸+%26+Florida+🇺🇸;Always+learning%2C+always+building+🚀" alt="Typing SVG" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=itsAsmaa&label=Profile+Views&color=58a6ff&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/itsAsmaa?label=Followers&style=flat-square&color=58a6ff" />
+  <img src="https://komarev.com/ghpvc/?username=itsAsmaa&amp;label=Profile+Views&amp;color=58a6ff&amp;style=flat-square" />
+  <img src="https://img.shields.io/github/followers/itsAsmaa?label=Followers&amp;style=flat-square&amp;color=58a6ff" />
 </div>
 
 ---
@@ -33,19 +33,19 @@ const asmaa = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=itsAsmaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=itsAsmaa&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=itsAsmaa&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;icon_color=58a6ff" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=itsAsmaa&amp;theme=tokyonight&amp;hide_border=true&amp;background=0d1117&amp;ring=58a6ff&amp;fire=ff6b6b&amp;currStreakLabel=58a6ff" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=itsAsmaa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=itsAsmaa&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff" width="48%" />
 </div>
 
 ---
 
 ## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=itsAsmaa&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=itsAsmaa&amp;theme=tokyo-night&amp;hide_border=true&amp;bg_color=0d1117&amp;color=58a6ff&amp;line=58a6ff&amp;point=ff6b6b" width="100%"/>
 
 ---
 
@@ -84,16 +84,16 @@ const asmaa = {
 
 <div align="center">
   <a href="https://www.linkedin.com/in/asmaafares/">
-    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&amp;logo=linkedin&amp;logoColor=0A66C2" />
   </a>
   <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+    <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&amp;logo=gmail&amp;logoColor=EA4335" />
   </a>
   <a href="https://github.com/itsAsmaa">
-    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff" />
+    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&amp;logo=github&amp;logoColor=ffffff" />
   </a>
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=100&amp;section=footer" width="100%"/>
