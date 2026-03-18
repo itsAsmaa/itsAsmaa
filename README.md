@@ -50,6 +50,15 @@ const asmaa = {
 
 ---
 
+
+## 🏕️ DataCamp Profile
+
+<div align="center">
+  <a href="https://www.datacamp.com/portfolio/faresasmaa205">
+    <img src="https://img.shields.io/badge/DataCamp-faresasmaa205-0d1117?style=for-the-badge&logo=datacamp&logoColor=03EF62" />
+  </a>
+</div>
+---
 ## 📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsAsmaa&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b" width="100%"/>
@@ -101,6 +110,9 @@ const asmaa = {
   </a>
   <a href="https://leetcode.com/u/asmaafares/">
     <img src="https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
+  </a>
+  <a href="https://www.datacamp.com/portfolio/faresasmaa205">
+    <img src="https://img.shields.io/badge/DataCamp-0d1117?style=for-the-badge&logo=datacamp&logoColor=03EF62" />
   </a>
 </div>
 
