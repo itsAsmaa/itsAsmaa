@@ -35,18 +35,7 @@ const asmaa = {
 
 ---
 
-## 🧩 LeetCode Stats
 
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/asmaafares?theme=dark&font=Nunito&ext=heatmap&border=0&radius=20&backgroundColor=0d1117&primaryColor=58a6ff&secondaryColor=ff6b6b" width="60%" />
-</div>
-
-<div align="center">
-  <a href="https://leetcode.com/u/asmaafares/">
-    <img src="https://img.shields.io/badge/LeetCode-asmaafares-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
-    
-  </a>
-</div>
 
 ---
 
