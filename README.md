@@ -89,9 +89,6 @@ const asmaa = {
   <a href="https://github.com/itsAsmaa">
     <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff" />
   </a>
-  <a href="https://leetcode.com/u/asmaafares/">
-    <img src="https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
-  </a>
   <a href="https://www.datacamp.com/portfolio/faresasmaa205">
     <img src="https://img.shields.io/badge/DataCamp-0d1117?style=for-the-badge&logo=datacamp&logoColor=03EF62" />
   </a>
