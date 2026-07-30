@@ -73,6 +73,17 @@ const asmaa = {
 </div>
 
 ---
+## 💻 LeetCode Stats
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/asmaafares?theme=dark&font=Karla&ext=heatmap" width="90%" />
+</div>
+
+<div align="center">
+  <img src="https://leetcode-stats-card.streamlit.app/?username=asmaafares" width="48%" />
+</div>
+
+---
 
 ## 🌐 Let's Connect!
 
