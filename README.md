@@ -18,10 +18,6 @@
 
 ## 🌟 About Me
 
-<img align="right" width="190" src="https://raw.githubusercontent.com/itsAsmaa/itsAsmaa/main/assets/mascot.svg" alt="Chippy, my resident chip-robot" />
-
-> Say hi to **Chippy** 👋 — my rubber duck, moral support, and the only one who never says *"works on my machine."*
-
 ```typescript
 const asmaa = {
   location     : ["Ramallah, West Bank 🇵🇸", "Lake Worth, Florida 🇺🇸"],
