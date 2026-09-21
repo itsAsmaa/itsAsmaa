@@ -94,13 +94,7 @@ const asmaa = {
 
 ---
 
-## 🐍 Watch My Commits Get Eaten
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/itsAsmaa/itsAsmaa/output/snake.svg" alt="snake eating my contributions" />
-</div>
-
----
 
 ## 💭 Wisdom of the Day
 
