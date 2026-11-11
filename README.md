@@ -1,131 +1,56 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B2B,50:1B1464,100:6A0DAD&height=200&section=header&text=Houston,%20this%20is%20Asmaa%20🚀&fontSize=40&fontColor=E0E0FF&animation=twinkling&fontAlignY=35&desc=Transmitting%20from%20somewhere%20between%20silicon%20and%20the%20stars&descSize=15&descAlignY=55" width="100%"/>
-
 <div align="center">
-
-<a href="https://github.com/itsAsmaa">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C792EA&center=true&vCenter=true&width=650&lines=Hardware+whisperer+to+the+stars+%F0%9F%94%8C%E2%9C%A8;AI+%26+ML+explorer+%F0%9F%A7%A0%F0%9F%9B%B8;Keeping+silicon+and+software+in+stable+orbit+%F0%9F%9B%B0%EF%B8%8F;Houston%2C+it+worked+on+my+machine+%F0%9F%99%83" />
-</a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=itsAsmaa&label=Signals+Received&color=7F5AF0&style=flat-square" />
-<img src="https://img.shields.io/github/followers/itsAsmaa?label=Crew+Members&style=flat-square&color=7F5AF0" />
-<img src="https://img.shields.io/badge/Fueled%20by-Coffee%20%26%20Stack%20Traces-0B0B2B?style=flat-square&color=7F5AF0" />
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsAsmaa/itsAsmaa/main/assets/header-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsAsmaa/itsAsmaa/main/assets/header-light.svg">
+    <img alt="Asmaa Fares — Computer Systems Engineer" src="https://raw.githubusercontent.com/itsAsmaa/itsAsmaa/main/assets/header-light.svg" width="680">
+  </picture>
 </div>
 
----
+<br>
 
-## 🪐 Mission Control
+<p align="center">
+  I design and verify digital hardware, write the software that runs on it,<br>
+  and build machine-learning models. I'm most at home where all three meet.
+</p>
 
-```typescript
-const asmaa = {
-  homeBase     : ["Ramallah, West Bank 🇵🇸", "Lake Worth, Florida 🇺🇸"],
-  orbitingAround: ["Hardware Development", "Software Engineering", "AI & ML"],
-  mission      : "Building innovative solutions that bridge hardware & software",
-  currently    : "Teaching a model something it really doesn't want to learn",
-  askMeAbout   : ["Verilog", "Linux", "neural nets", "why the LED isn't blinking"],
-  funFact      : "The bug is always in the last place you look. I look there first now.",
-  openToMissions: true,
-};
+<p align="center">
+  <a href="https://itsasmaa.github.io/Asmaa-Fares-Portfolio/">Portfolio</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/asmaafares/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:enga57682@gmail.com">Email</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.datacamp.com/portfolio/faresasmaa205">DataCamp</a>
+</p>
 
-// ⚠️ Warning: may spontaneously start explaining how a CPU works 🧠
-```
-
----
-
-## 🛰️ Current Mission Log
-
-```
-🚀 [██████████████████░░] 90%  →  Launching things that blink, think, and occasionally compile
-🌠 [████████████████████] 100% →  Convinced this time the training run will converge
-🕳️ [███░░░░░░░░░░░░░░░░░] 15%  →  Escaping the black hole of open browser tabs
-```
-
----
-
-## 🧰 Onboard Systems
+<br>
 
 <div align="center">
-
-**🌍 Languages**
-
-![Python](https://img.shields.io/badge/Python-0B0B2B?style=for-the-badge&logo=python&logoColor=3776AB)
-![C++](https://img.shields.io/badge/C++-0B0B2B?style=for-the-badge&logo=cplusplus&logoColor=00599C)
-![C](https://img.shields.io/badge/C-0B0B2B?style=for-the-badge&logo=c&logoColor=A8B9CC)
-![JavaScript](https://img.shields.io/badge/JavaScript-0B0B2B?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-0B0B2B?style=for-the-badge&logo=typescript&logoColor=3178C6)
-
-**🛸 AI & Hardware**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0B0B2B?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
-![PyTorch](https://img.shields.io/badge/PyTorch-0B0B2B?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
-![Arduino](https://img.shields.io/badge/Arduino-0B0B2B?style=for-the-badge&logo=arduino&logoColor=00979D)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-0B0B2B?style=for-the-badge&logo=raspberrypi&logoColor=A22846)
-![Linux](https://img.shields.io/badge/Linux-0B0B2B?style=for-the-badge&logo=linux&logoColor=FCC624)
-
-**🔭 Tools & Frameworks**
-
-![React](https://img.shields.io/badge/React-0B0B2B?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-0B0B2B?style=for-the-badge&logo=nodedotjs&logoColor=339933)
-![Git](https://img.shields.io/badge/Git-0B0B2B?style=for-the-badge&logo=git&logoColor=F05032)
-![Docker](https://img.shields.io/badge/Docker-0B0B2B?style=for-the-badge&logo=docker&logoColor=2496ED)
-
+<table>
+  <tr>
+    <th width="230">Hardware</th>
+    <th width="230">Software</th>
+    <th width="230">AI &amp; ML</th>
+  </tr>
+  <tr>
+    <td align="center">Verilog&nbsp;·&nbsp;SystemVerilog<br>UVM&nbsp;·&nbsp;RISC&nbsp;processor&nbsp;design<br>Arduino&nbsp;·&nbsp;Raspberry&nbsp;Pi</td>
+    <td align="center">Python&nbsp;·&nbsp;C&nbsp;·&nbsp;C++<br>TypeScript&nbsp;·&nbsp;React&nbsp;·&nbsp;Node.js<br>Linux&nbsp;·&nbsp;Docker&nbsp;·&nbsp;Git</td>
+    <td align="center">PyTorch&nbsp;·&nbsp;TensorFlow<br>scikit‑learn&nbsp;·&nbsp;librosa<br>Speech&nbsp;&amp;&nbsp;vision&nbsp;models</td>
+  </tr>
+</table>
 </div>
 
----
+<br>
 
-## 📡 Telemetry
+<p align="center">
+  <img src="https://raw.githubusercontent.com/itsAsmaa/itsAsmaa/main/assets/divider.svg" width="160" alt="">
+</p>
 
-<div align="center">
+<p align="center">
+  Based between Ramallah, Palestine and Lake Worth, Florida —<br>
+  open to roles and collaborations across hardware, software and AI.
+</p>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=itsAsmaa&show_icons=true&hide_border=true&bg_color=0B0B2B&title_color=C792EA&icon_color=7F5AF0&text_color=E0E0FF" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsAsmaa&layout=compact&hide_border=true&bg_color=0B0B2B&title_color=C792EA&text_color=E0E0FF" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=itsAsmaa&hide_border=true&background=0B0B2B&ring=C792EA&fire=7F5AF0&currStreakLabel=C792EA&sideLabels=E0E0FF&currStreakNum=E0E0FF&sideNums=E0E0FF&dates=9A8CFF&stroke=1B1464" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=itsAsmaa&bg_color=0B0B2B&color=C792EA&line=7F5AF0&point=E0E0FF&area=true&area_color=6A0DAD&hide_border=true&custom_title=Orbital%20Activity" width="100%" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=itsAsmaa&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8" />
-
-</div>
-
----
-
-## 🌌 Transmission from Deep Space
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</div>
-
----
-
-## 📬 Open a Comm Channel
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/asmaafares/">
-    <img src="https://img.shields.io/badge/LinkedIn-0B0B2B?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
-  </a>
-  <a href="mailto:enga57682@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0B0B2B?style=for-the-badge&logo=gmail&logoColor=EA4335" />
-  </a>
-  <a href="https://github.com/itsAsmaa">
-    <img src="https://img.shields.io/badge/GitHub-0B0B2B?style=for-the-badge&logo=github&logoColor=ffffff" />
-  </a>
-  <a href="https://www.datacamp.com/portfolio/faresasmaa205">
-    <img src="https://img.shields.io/badge/DataCamp-0B0B2B?style=for-the-badge&logo=datacamp&logoColor=03EF62" />
-  </a>
-</div>
-
-<div align="center">
-  <br/>
-  <i>🌠 You've reached escape velocity. Star a repo to refuel the ship — I don't make the laws of physics.</i>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B2B,50:1B1464,100:6A0DAD&height=110&section=footer" width="100%"/>
+<p align="center">
+  <sub><i>The bug is always in the last place you look — so now I look there first.</i></sub>
+</p>
