@@ -47,10 +47,7 @@
     <td><b>Hardware &amp; technical teams</b><br>Academic Industrial Club · GDSC</td>
     <td>Hardware team member and GDSC technical team member at Birzeit.</td>
   </tr>
-  <tr>
-    <td><b>Co-lead, hackathon track</b><br>Qiskit Fall Fest 2026</td>
-    <td>Co-leading the multi-university hackathon track with Birzeit's Quantum Computing Club.</td>
-  </tr>
+ 
 </table>
 </div>
 
